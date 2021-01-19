@@ -1,5 +1,14 @@
 # Sample
 
+## Run API
+
+Run MongoDB and Redis containers:
+
+```sh
+docker-compose build
+docker-compose run start_dependencies
+```
+
 ## Development setup
 
 To start development:

@@ -26,5 +26,6 @@ module.exports = {
      'endOfLine':'auto'
     }],
     'import/no-cycle': 'off',
+    '@typescript-eslint/explicit-module-boundary-types': 'off',
   },
 };
