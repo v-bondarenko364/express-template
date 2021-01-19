@@ -1,0 +1,11 @@
+# common ignore folders
+node_modules/
+
+# ignore generated folder
+dist/
+data/
+sequelize-compile/
+
+# ignore dotenv env files
+.env*
+!.env.example
